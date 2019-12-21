@@ -381,7 +381,7 @@ printf "\e[1;77m |_   _| |   | |   | |     |   |       \e[0m\n"
 printf "\e[1;77m   | |   | | | |___| |---  |___|       \e[0m\n"
 printf "\e[1;77m   |_|   |___| |     |___  |\     v1.1 \e[0m\n"
 printf "\n"
-printf "\e[1;93m :::\e[0m\e[1;77m Coded by: @thelinuxchoice\e[0m\n"
+printf "\e[1;93m :::\e[0m\e[1;77m Coded by: @Hutabarat20 \e[0m\n"
 
 }
 banner
