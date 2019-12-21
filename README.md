@@ -1,7 +1,4 @@
-# Locator v1.0
-## Author: github.com/thelinuxchoice/locator
-## IG: instagram.com/thelinuxchoice
-### Don't copy this code without give me the credits, nerd! 
+
 
 Geolocator, Ip Tracker, Device Info by URL (Serveo and Ngrok).
 It uses tinyurl to obfuscate the Serveo link.
