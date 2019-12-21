@@ -12,9 +12,10 @@ Usage of Locator for attacking targets without prior mutual consent is illegal. 
 
 ### Usage:
 ```
-git clone https://github.com/thelinuxchoice/locator
-cd locator
-bash locator.sh
+git clone https://github.com/toper29/perper29
+
+cd perper29
+bash perper29.sh
 ```
 
 ### Donate!
