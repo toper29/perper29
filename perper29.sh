@@ -1,8 +1,3 @@
-#!/bin/bash
-# Locator v1.0
-# Coded by: thelinuxchoice (You dont become a coder by just changing the credits)
-# Github: https://github.com/thelinuxchoice/locator
-
 trap 'printf "\n";stop;exit 1' 2
 
 
